@@ -16,17 +16,17 @@
     </head>
     
     <body>
-        <div class="container">
-            <?php
-                include'sidebar.php';
-            ?>
+        
+        <?php
+            include'sidebar.php';
+        ?>
 
-            <?php
-                include'main.php';
-            ?>
+        <?php
+            include'main.php';
+        ?>
 
-            <?php
-                include'body.php';
-            ?>
+        <?php
+            include'body.php';
+        ?>
     </body>
 </html>
